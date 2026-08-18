@@ -19,9 +19,8 @@
           desc: 'A base do luxo. Texturas orgânicas e padrões exclusivos que definem o caráter do seu espaço.',
           cover: 'pisos/piso.webp',
           videos: [
-            { type: 'youtube', id: 'fHEBXGLVck4', vertical: true, title: 'A presença absoluta do material' },
-            { type: 'youtube', id: 'i4gXTyMsTZo', vertical: true, title: 'Coleção Brazil: o espectro tonal da madeira brasileira' },
-            { type: 'youtube', id: 'j6ptdgucfRs', vertical: true, title: 'Brazil' },
+            { type: 'youtube', id: 'kol9WojQX3A', vertical: true, title: 'Video1 Piso Reto Carvalho Europeu Fazenda Boa Vista' },
+            { type: 'youtube', id: 'StbKCTnHmWY', vertical: true, title: 'Video1 Piso Reto Carvalho Europeu Fazenda Boa Vista' },
            ],
           collections: [
             {
