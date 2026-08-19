@@ -20,6 +20,7 @@
           cover: 'pisos/piso.webp',
           videos: [
             { type: 'youtube', id: 'kol9WojQX3A', vertical: true, title: 'Video1 Piso Reto Carvalho Europeu Fazenda Boa Vista' },
+            { type: 'youtube', id: 'M4UQmQ48K6E', vertical: true, title: 'Piso de Carvalho' },
            ],
           collections: [
             {
